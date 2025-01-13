@@ -37,7 +37,7 @@
 
 ### 1️⃣ 克隆代码仓库：
 ```bash
-git clone https://github.com/Occlusion_Recovery/Occlusion_Recovery.git
+git clone https://github.com/BZPJ2000/Occlusion_Recovery.git
 cd DeepImageRepair
 ```
 
