@@ -37,7 +37,7 @@
 
 ### 1️⃣ 克隆代码仓库：
 ```bash
-git clone https://github.com/yourusername/DeepImageRepair.git
+git clone https://github.com/Occlusion_Recovery/Occlusion_Recovery.git
 cd DeepImageRepair
 ```
 
@@ -86,7 +86,7 @@ python demo.py --image_path ./sample_images/input.jpg --model_path ./checkpoints
 
 ## 📁 **项目结构**
 ```
-DeepImageRepair/
+Occlusion_Recovery/
 │
 ├── datasets/                          # 数据加载和增强模块
 ├── models/                            # GAN 模型架构
@@ -113,4 +113,4 @@ DeepImageRepair/
 ---
 
 ## ⭐ **支持我们**
-如果您喜欢本项目，请在 [GitHub](https://github.com/yourusername/DeepImageRepair) 上为我们点个 ⭐！
+如果您喜欢本项目，请在 [GitHub](https://github.com/Occlusion_Recovery) 上为我们点个 ⭐！
