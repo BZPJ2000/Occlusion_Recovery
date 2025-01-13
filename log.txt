@@ -1,0 +1,12 @@
+1.train_2.py
+267行、272行、273行
+修改路径
+
+param_search.py
+param_options
+可以自由添加参数
+optim可以不动，不然1.train_2.py中又得写点
+
+
+直接运行param_search.py就可以了
+在服务器上python param_search.py 就可以了
